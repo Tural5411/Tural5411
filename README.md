@@ -1,7 +1,7 @@
 ### Hi there, I'm Tural - [website] 👋
 
 ## I'm a Junior .NET Developer!
-- 🔭 I’m currently working on my [website]
+- 🔭 I’m currently working on Freelance
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
