@@ -1,7 +1,7 @@
-### Hi there, I'm Tural - [website] 👋
+### Hi there, I'm Tural 👋
 
-## I'm a .NET Developer!
-- 🔭 I’m currently working on Remote
+## I'm a Software Developer!
+- 🔭 I’m currently working as a Software Developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
