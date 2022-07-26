@@ -5,11 +5,11 @@
     <img src="https://gidigi.com/cdn/love.gif">
 </p>
 
- <a href="https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&count_private=true&show_icons=true&theme=chartreuse-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+ <a href="https://github-readme-stats.vercel.app/api?username=Tural5411&count_private=true&show_icons=true&theme=chartreuse-dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tural5411&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/m0rp43us">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanbalaRashidov&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tural5411&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -37,23 +37,23 @@
   
   <table>
   <tr>
-    <td ><img alt="Visitors" src="https://komarev.com/ghpvc/?username=KhanbalaRashidov&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></td>
-    <td  ><img alt="Last Commit" src="https://img.shields.io/github/last-commit/KhanbalaRashidov/KhanbalaRashidov?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+    <td ><img alt="Visitors" src="https://komarev.com/ghpvc/?username=Tural5411&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></td>
+    <td  ><img alt="Last Commit" src="https://img.shields.io/github/last-commit/Tural5411/Tural5411?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </td>
   </tr>
 </table>
 
   <b>🔥 Github Streaks</b>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KhanbalaRashidov&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="KhanbalaRashidov" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KhanbalaRashidov&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Tural5411" /></p>
 
 ![](./profile-green-animate.svg)
 
 
-![](https://github.com/KhanbalaRashidov/KhanbalaRashidov/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/Tural5411/Tural5411/blob/output/github-contribution-grid-snake.svg)
  
 
 <!--
-**KhanbalaRashidov/KhanbalaRashidov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tural5411/Tural5411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
