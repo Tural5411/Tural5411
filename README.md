@@ -1,13 +1,6 @@
 ### Hi, I`m Tural Abdulkhaligov 👋
 **I'm Software Developer**
 
- <a href="https://github-readme-stats.vercel.app/api?username=Tural5411&count_private=true&show_icons=true&theme=chartreuse-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tural5411&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
-<a href="https://github.com/m0rp43us">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tural5411&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -31,15 +24,4 @@
 <!--
 **Tural5411/Tural5411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
