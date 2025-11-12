@@ -1,27 +1,51 @@
-### Hi, I`m Tural Abdulkhaligov 👋
-**I'm Software Developer**
+### 👋 Hi, I’m **Tural Abdulkhaligov**
+**Software Developer**
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+💡 Passionate about building scalable, clean, and maintainable Web APIs using modern software architecture principles such as **Clean Architecture**, **Repository Pattern**, and **Unit of Work**.
 
-- 💻 &nbsp;
-  <table>
-  <tr>
-    <td ><img alt="Visitors" src="https://komarev.com/ghpvc/?username=Tural5411&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></td>
-    <td  ><img alt="Last Commit" src="https://img.shields.io/github/last-commit/Tural5411/Tural5411?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
-</td>
-  </tr>
+---
+
+### 🛠 Tech Stack
+
+- 💻 **Languages:** C#, SQL, JavaScript  
+- ⚙️ **Frameworks:** .NET Core, ASP.NET MVC, Entity Framework Core, Angular  
+- 🧩 **Architecture:** Clean Architecture, Repository & Unit of Work Pattern, SOLID Principles  
+- 🗄️ **Databases:** MS SQL Server, PostgreSQL  
+- ☁️ **Other Tools:** Docker, Swagger, AutoMapper, Serilog, LINQ  
+- 📦 **Version Control:** Git, GitHub, GitLab  
+
+---
+
+### 📈 GitHub Analytics
+
+<table>
+<tr>
+  <td><img src="https://github-readme-streak-stats.herokuapp.com?user=Tural5411&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></td>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=Tural5411&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/></td>
+</tr>
 </table>
 
-  <b>🔥 Github Streaks</b>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KhanbalaRashidov&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Tural5411" /></p>
+---
 
-![](./profile-green-animate.svg)
+### 🧠 What I’m focusing on
+- Building scalable **Web API** solutions with **Clean Code** principles  
+- Enhancing skills in **Microservices** and **Distributed Systems**  
+- Learning **Cloud-based architecture (Azure & AWS)**  
 
+---
 
-![](https://github.com/Tural5411/Tural5411/blob/output/github-contribution-grid-snake.svg)
- 
+### 📫 Connect with me
 
-<!--
-**Tural5411/Tural5411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/turalabdulkhaligov)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Tural5411)
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:tural.abdulxaliqov@gmail.com)
 
+---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tural5411&style=flat-square&color=29bf12&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Tural5411/Tural5411/blob/output/github-contribution-grid-snake.svg" />
+</p>
